@@ -28,7 +28,7 @@ public class Cotxe {
 		return "El vehicle està accelerant.";
 	}
 	
-	
+	@Override
 	public String toString() {
 		return "Sóc un cotxe de la marca " + Cotxe.MARCA + ", del model " + Cotxe.model + 
 				", amb una potència de " + this.POTENCIA + " CV.";

@@ -8,10 +8,12 @@ public class Smartphone extends Telefon implements Camera, Rellotge {
 		super(marca, model);
 	}
 	
+	@Override
 	public String fotografiar() {
 		return "S’està fent una foto.";
 	}
 	
+	@Override
 	public String alarma() {
 		return "Està sonant l’alarma.";
 	}

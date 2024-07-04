@@ -7,12 +7,12 @@ public class InstrumentCorda extends Instrument {
 		super(nom, preu);
 	}
 		
-	
+	@Override
 	public String tocar() {
 		return "Està sonant un instrument de corda.";
 	}
 		
-	
+	@Override
 	public String toString() {
 		return "Aquest és un instrument de corda amb el nom " + super.getNom() + 
 				" i amb un preu de " + super.getPreu() + " euros.";

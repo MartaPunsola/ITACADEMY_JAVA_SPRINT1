@@ -26,37 +26,41 @@ public class NotBasquet extends Noticia{
 	public void setClub(String club) {
 		this.club = club;
 	}
-		
+	
+	@Override
 	public String calcularPreuNoticia() {
-		int preuInici = 250, preuFinal = 0;
-		super.setPreu(preuInici);
+		final int PREU_INICI = 250;
+		int preuFinal = 0;
+		super.setPreu(PREU_INICI);
 		
 		if(this.competicio.equalsIgnoreCase("Eurolliga") && (this.club.equalsIgnoreCase("Barça") || this.club.equalsIgnoreCase("Madrid"))) {
-			preuFinal = preuInici + 150;
+			preuFinal = PREU_INICI + 150;
 		}  else if(this.competicio.equalsIgnoreCase("Eurolliga") || (this.club.equalsIgnoreCase("Barça") || this.club.equalsIgnoreCase("Madrid"))) {
-			preuFinal = preuInici + 75;
+			preuFinal = PREU_INICI + 75;
 		} else {
-			preuFinal = preuInici;
+			preuFinal = PREU_INICI;
 		}
 		super.setPreu(preuFinal);
 		
 		return preuFinal + " euros.";
 	}
 	
+	@Override
 	public String calcularPuntsNoticia() {
-		int puntsInici = 4, puntsFinal = 0;
-		super.setPunts(puntsInici);
+		final int PUNTS_INICI = 4;
+		int puntsFinal = 0;
+		super.setPunts(PUNTS_INICI);
 		
 		if(this.competicio.equalsIgnoreCase("Eurolliga") && (this.club.equalsIgnoreCase("Barça") || this.club.equalsIgnoreCase("Madrid"))) {
-			puntsFinal = puntsInici + 4;
+			puntsFinal = PUNTS_INICI + 4;
 		} else if(this.competicio.equalsIgnoreCase("Eurolliga") || (this.competicio.equalsIgnoreCase("ACB") && (this.club.equals("Barça") || this.club.equalsIgnoreCase("Madrid")))) {
-			puntsFinal = puntsInici + 3;
+			puntsFinal = PUNTS_INICI + 3;
 		} else if(this.competicio.equalsIgnoreCase("ACB")) {
-			puntsFinal = puntsInici + 2;
+			puntsFinal = PUNTS_INICI + 2;
 		} else if(this.club.equalsIgnoreCase("Barça") || this.club.equalsIgnoreCase("Madrid")) {
-			puntsFinal = puntsInici + 1;
+			puntsFinal = PUNTS_INICI + 1;
 		} else {
-			puntsFinal = puntsInici;
+			puntsFinal = PUNTS_INICI;
 		}
 		
 		super.setPunts(puntsFinal);

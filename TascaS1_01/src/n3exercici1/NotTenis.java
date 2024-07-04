@@ -26,29 +26,33 @@ public class NotTenis extends Noticia{
 	public void setTenista(String tenista) {
 		this.tenista = tenista;
 	}
-		
+	
+	@Override
 	public String calcularPreuNoticia() {
-		int preuInici = 150, preuFinal = 0;
-		super.setPreu(preuInici);
+		final int PREU_INICI = 150;
+		int preuFinal = 0;
+		super.setPreu(PREU_INICI);
 		
 		if(this.tenista.equalsIgnoreCase("Federer") || this.tenista.equalsIgnoreCase("Nadal") || this.tenista.equalsIgnoreCase("Djokovic")) {
-			preuFinal = preuInici + 100;
+			preuFinal = PREU_INICI + 100;
 		} else {
-			preuFinal = preuInici;
+			preuFinal = PREU_INICI;
 		}
 		super.setPreu(preuFinal);
 		
 		return preuFinal + " euros.";
 	}
 	
+	@Override
 	public String calcularPuntsNoticia() {
-		int puntsInici = 4, puntsFinal = 0;
-		super.setPunts(puntsInici);
+		final int PUNTS_INICI = 4;
+		int puntsFinal = 0;
+		super.setPunts(PUNTS_INICI);
 		
 		if(this.tenista.equalsIgnoreCase("Federer") || this.tenista.equalsIgnoreCase("Nadal") || this.tenista.equalsIgnoreCase("Djokovic")) {
-			puntsFinal = puntsInici + 3;
+			puntsFinal = PUNTS_INICI + 3;
 		} else {
-			puntsFinal = puntsInici;
+			puntsFinal = PUNTS_INICI;
 		}
 		super.setPunts(puntsFinal);
 		

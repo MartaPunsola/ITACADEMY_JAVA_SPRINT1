@@ -36,45 +36,49 @@ public class NotFutbol extends Noticia{
 	public void setJugador(String jugador) {
 		this.jugador = jugador;
 	}
-		
+	
+	@Override
 	public String calcularPreuNoticia() {
-		int preuInici = 300, preuFinal = 0;
-		super.setPreu(preuInici); 
+		final int PREU_INICI = 300;
+		int preuFinal = 0;
+		super.setPreu(PREU_INICI); 
 		
 		if(this.competicio.equalsIgnoreCase("Lliga de Campions") && (this.club.equals("Barça") || this.club.equalsIgnoreCase("Madrid")) && (this.jugador.equals("Ferran Torres") || this.jugador.equalsIgnoreCase("Benzema"))) {
-			preuFinal = preuInici + 250;
+			preuFinal = PREU_INICI + 250;
 		} else if (this.competicio.equalsIgnoreCase("Lliga de Campions") && (this.club.equals("Barça") || this.club.equalsIgnoreCase("Madrid"))) {
-			preuFinal = preuInici + 200;
+			preuFinal = PREU_INICI + 200;
 		} else if ((this.competicio.equalsIgnoreCase("Lliga de Campions") || (this.club.equals("Barça") || this.club.equalsIgnoreCase("Madrid")) && (this.jugador.equals("Ferran Torres") || this.jugador.equalsIgnoreCase("Benzema")))) {
-			preuFinal = preuInici + 150;
+			preuFinal = PREU_INICI + 150;
 		} else if(this.competicio.equalsIgnoreCase("Lliga de Campions") || this.club.equals("Barça") || this.club.equalsIgnoreCase("Madrid")) {
-			preuFinal = preuInici + 100;
+			preuFinal = PREU_INICI + 100;
 		} else if (this.jugador.equals("Ferran Torres") || this.jugador.equalsIgnoreCase("Benzema")) {
-			preuFinal = preuInici + 50;
+			preuFinal = PREU_INICI + 50;
 		} else {
-			preuFinal = preuInici;
+			preuFinal = PREU_INICI;
 		}
 		super.setPreu(preuFinal);
 		
 		return preuFinal + " euros.";
 	}
 	
+	@Override
 	public String calcularPuntsNoticia() {
-		int puntsInici = 5, puntsFinal = 0;
-		super.setPunts(puntsInici);
+		final int PUNTS_INICI = 5;
+		int puntsFinal = 0;
+		super.setPunts(PUNTS_INICI);
 		
 		if(this.competicio.equalsIgnoreCase("Lliga de Campions") && (this.club.equalsIgnoreCase("Barça") || this.club.equalsIgnoreCase("Madrid")) && (this.jugador.equalsIgnoreCase("Ferran Torres") || this.jugador.equalsIgnoreCase("Benzema"))) {
-			puntsFinal = puntsInici + 5;
+			puntsFinal = PUNTS_INICI + 5;
 		} else if((this.competicio.equalsIgnoreCase("Lliga de Campions") && ((this.club.equalsIgnoreCase("Barça") || this.club.equalsIgnoreCase("Madrid")) || (this.jugador.equalsIgnoreCase("Ferran Torres") || this.jugador.equalsIgnoreCase("Benzema")))) || (this.competicio.equalsIgnoreCase("Lliga") && (this.club.equalsIgnoreCase("Barça") || this.club.equalsIgnoreCase("Madrid")) && (this.jugador.equalsIgnoreCase("Ferran Torres") || this.jugador.equalsIgnoreCase("Benzema")))) {
-			puntsFinal = puntsInici + 4;
+			puntsFinal = PUNTS_INICI + 4;
 		} else if(this.competicio.equalsIgnoreCase("Lliga de Campions") || (this.competicio.equalsIgnoreCase("Lliga") && (this.club.equalsIgnoreCase("Barça") || this.club.equalsIgnoreCase("Madrid")) || (this.jugador.equalsIgnoreCase("Ferran Torres") || this.jugador.equalsIgnoreCase("Benzema")))) {
-			puntsFinal = puntsInici + 3;
+			puntsFinal = PUNTS_INICI + 3;
 		} else if (this.competicio.equalsIgnoreCase("Lliga") || ((this.club.equalsIgnoreCase("Barça") || this.club.equalsIgnoreCase("Madrid")) && (this.jugador.equalsIgnoreCase("Ferran Torres") || this.jugador.equalsIgnoreCase("Benzema")))) {
-			puntsFinal = puntsInici + 2;
+			puntsFinal = PUNTS_INICI + 2;
 		} else if((this.club.equalsIgnoreCase("Barça") || this.club.equalsIgnoreCase("Madrid")) || (this.jugador.equalsIgnoreCase("Ferran Torres") || this.jugador.equalsIgnoreCase("Benzema"))) {
-			puntsFinal = puntsInici + 1;
+			puntsFinal = PUNTS_INICI + 1;
 		} else {
-			puntsFinal = puntsInici;
+			puntsFinal = PUNTS_INICI;
 		}
 		super.setPunts(puntsFinal);
 		

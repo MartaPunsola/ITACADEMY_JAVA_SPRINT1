@@ -16,29 +16,33 @@ public class NotF1 extends Noticia{
 	public void setEscuderia(String escuderia) {
 		this.escuderia = escuderia;
 	}
-		
+	
+	@Override
 	public String calcularPreuNoticia() {
-		int preuInici = 100, preuFinal = 0;
-		super.setPreu(preuInici);
+		final int PREU_INICI = 100;
+		int preuFinal = 0;
+		super.setPreu(PREU_INICI);
 		
 		if(this.escuderia.equalsIgnoreCase("Ferrari") || this.escuderia.equalsIgnoreCase("Mercedes")) {
-			preuFinal = preuInici + 50;
+			preuFinal = PREU_INICI + 50;
 		} else {
-			preuFinal = preuInici;
+			preuFinal = PREU_INICI;
 		}
 		super.setPreu(preuFinal);
 		
 		return preuFinal + " euros.";
 	}
 	
+	@Override
 	public String calcularPuntsNoticia() {
-		int puntsInici = 4, puntsFinal = 0;
-		super.setPunts(puntsInici);
+		final int PUNTS_INICI = 4;
+		int puntsFinal = 0;
+		super.setPunts(PUNTS_INICI);
 		
 		if(this.escuderia.equalsIgnoreCase("Ferrari") || this.escuderia.equalsIgnoreCase("Mercedes")) {
-			puntsFinal = puntsInici + 2;
+			puntsFinal = PUNTS_INICI + 2;
 		} else {
-			puntsFinal = puntsInici;
+			puntsFinal = PUNTS_INICI;
 		}
 		super.setPunts(puntsFinal);
 		

@@ -18,14 +18,16 @@ public class NotMotociclisme extends Noticia{
 	}
 	
 
+	@Override
 	public String calcularPreuNoticia() {
-		int preuInici = 100, preuFinal = 0;
-		super.setPreu(preuInici);
+		final int PREU_INICI = 100;
+		int preuFinal = 0;
+		super.setPreu(PREU_INICI);
 		
 		if(this.equip.equalsIgnoreCase("Honda") || this.equip.equalsIgnoreCase("Yamaha")) {
-			preuFinal = preuInici + 50;
+			preuFinal = PREU_INICI + 50;
 		} else {
-			preuFinal = preuInici;
+			preuFinal = PREU_INICI;
 		}
 		super.setPreu(preuFinal);
 		
@@ -33,14 +35,16 @@ public class NotMotociclisme extends Noticia{
 		
 	}
 	
+	@Override
 	public String calcularPuntsNoticia() {
-		int puntsInici = 3, puntsFinal = 0;
-		super.setPunts(puntsInici);
+		final int PUNTS_INICI = 3;
+		int puntsFinal = 0;
+		super.setPunts(PUNTS_INICI);
 		
 		if(this.equip.equalsIgnoreCase("Honda") || this.equip.equalsIgnoreCase("Yamaha")) {
-			puntsFinal = puntsInici + 3;
+			puntsFinal = PUNTS_INICI + 3;
 		} else {
-			puntsFinal = puntsInici;
+			puntsFinal = PUNTS_INICI;
 		}
 		super.setPunts(puntsFinal);
 		
