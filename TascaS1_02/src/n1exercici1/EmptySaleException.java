@@ -8,10 +8,5 @@ public class EmptySaleException extends Exception {
 		super(message);
 	}
 	
-	@Override
-	public String getMessage() {
-		return "To sell a product you need to add it first.";
-	}
-
 
 }

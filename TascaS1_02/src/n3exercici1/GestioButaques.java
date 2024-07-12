@@ -22,13 +22,11 @@ public class GestioButaques {
 		seient = b.getSeient();
 		butacaTrobada = cercarButaca(fila, seient);
 		
-		if(butacaTrobada == -1) {
-			this.butaques.add(b);
-			
-		} else {
-			throw new ExcepcioButacaOcupada();
+		if(butacaTrobada != -1) {
+			throw new ExcepcioButacaOcupada("Aquesta butaca està ocupada.");
 		}
 		
+		this.butaques.add(b);
 	}
 	
 	public void eliminarButaca(int fila, int seient) throws ExcepcioButacaLliure {
@@ -36,11 +34,10 @@ public class GestioButaques {
 		butacaTrobada = cercarButaca(fila, seient);
 		
 		if(butacaTrobada == -1) {
-			throw new ExcepcioButacaLliure();
-		} else {
-			this.butaques.remove(butacaTrobada);
-		}
+			throw new ExcepcioButacaLliure("Aquesta butaca està lliure.");
+		} 
 		
+		this.butaques.remove(butacaTrobada);
 	}
 	
 	public int cercarButaca(int fila, int seient) {

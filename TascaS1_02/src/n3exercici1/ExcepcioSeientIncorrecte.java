@@ -8,8 +8,4 @@ public class ExcepcioSeientIncorrecte extends Exception {
 		super(message);
 	}
 	
-	public String getMessage() {
-		return "Aquest seient no existeix.";
-	}
-
 }

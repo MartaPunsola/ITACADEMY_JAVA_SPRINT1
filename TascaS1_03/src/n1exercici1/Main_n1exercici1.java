@@ -22,6 +22,7 @@ public class Main_n1exercici1 {
 		year.add(new Month("December"));
 		year.add(7, new Month("August"));
 		
+		System.out.println("The 12 months appear in the correct order, including August:");
 		int order = 1;
 		for (Month month : year) {
 			System.out.println(order + ". " + month.getName());
@@ -31,11 +32,13 @@ public class Main_n1exercici1 {
 		
 		HashSet<Month> year2 = new HashSet<Month>(year);
 		
+		System.out.println("The size of the HashSet stays the same before and after trying to duplicate a month:");
 		System.out.println(year2.size());
 		year2.add(new Month("August"));
 		System.out.println(year2.size());
 		System.out.println();
 		
+		System.out.println("The months in the HashSet don't follow any specific order:");
 		order = 1;
 		for (Month month : year2) {
 			System.out.println(order + ". " + month.getName());
@@ -45,6 +48,7 @@ public class Main_n1exercici1 {
 		
 		Iterator<Month> it = year2.iterator();
 		
+		System.out.println("Going through the HashSet with an iterator:");
 		order = 1;
 		while(it.hasNext()) {
 			System.out.println(order + ". " + it.next().getName());

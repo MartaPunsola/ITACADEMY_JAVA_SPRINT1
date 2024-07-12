@@ -8,9 +8,4 @@ public class ExcepcioFilaIncorrecta extends Exception {
 		super(message);
 	}
 	
-	@Override
-	public String getMessage() {
-		return "Aquesta fila no existeix.";
-	}
-
 }

@@ -202,23 +202,26 @@ public class Cine {
 		if(clientTrobat == -1) {
 			System.out.println("Aquest client no té cap reserva.");
 		} else {
-			
-			do {
-				fila = this.gestBut.getButaques().get(clientTrobat).getFila();
-				seient = this.gestBut.getButaques().get(clientTrobat).getSeient();
-				try {
-					this.gestBut.eliminarButaca(fila, seient);
-					
-				} catch (ExcepcioButacaLliure e) {
-					System.out.println(e.getMessage());
-				} 
-			} while (clientTrobat < this.gestBut.getButaques().size());
+			for(int i = 0; i < this.gestBut.getButaques().size(); i++) {
+				if(this.gestBut.getButaques().get(i).getNomClient().equalsIgnoreCase(nomClient)) {
+					fila = this.gestBut.getButaques().get(clientTrobat).getFila();
+					seient = this.gestBut.getButaques().get(clientTrobat).getSeient();
+					try {
+						this.gestBut.eliminarButaca(fila, seient);
+						
+					} catch (ExcepcioButacaLliure e) {
+						System.out.println(e.getMessage());
+					} 
+					i--;
+				}
+			}
 			System.out.println("Les butaques del client " + nomClient + " han estat eliminades amb èxit.");
 		}
+		
 	}
 	
 	public String introduirPersona() throws ExcepcioNomPersonaIncorrecte {
-		String nomClient = "", dada = "";
+		String nomClient = "";
 		int i = 0;
 		boolean isDigit = false;
 		
@@ -234,11 +237,9 @@ public class Cine {
 		}
 		
 		if (isDigit) {
-			throw new ExcepcioNomPersonaIncorrecte();
-		} else {
-			dada = nomClient;
-		}
-		return dada;
+			throw new ExcepcioNomPersonaIncorrecte("El nom no pot contenir xifres.");
+		} 
+		return nomClient;
 	}
 	
 	public void demanarDadesInicials() {
@@ -249,28 +250,24 @@ public class Cine {
 	}
 	
 	public int introduirFila() throws ExcepcioFilaIncorrecta {
-		int fila = 0, dada = 0;
+		int fila = 0;
 		System.out.println("Indica la fila:");
 		fila = entrada.nextInt();
-		if ((fila >= 1) && (fila <= this.numFiles)) {
-			dada = fila;
-		} else {
-			throw new ExcepcioFilaIncorrecta();
-		}
-		return dada;
+		if ((fila < 1) || (fila > this.numFiles)) {
+			throw new ExcepcioFilaIncorrecta("Aquesta fila no existeix.");
+		} 
+		return fila;
 	}
 	
 	public int introduirSeient() throws ExcepcioSeientIncorrecte {
-		int seient = 0, dada = 0;
+		int seient = 0;
 		System.out.println("Indica el seient:");
 		seient = entrada.nextInt();
 		entrada.nextLine();
-		if ((seient >= 1) && (seient <= this.numSeients)) {
-			dada = seient;
-		} else {
-			throw new ExcepcioSeientIncorrecte();
-		}
-		return dada;
+		if ((seient < 1) || (seient > this.numSeients)) {
+			throw new ExcepcioSeientIncorrecte("Aquest seient no existeix.");
+		} 
+		return seient;
 	}
 	
 	public int cercaClient(String nomClient) {

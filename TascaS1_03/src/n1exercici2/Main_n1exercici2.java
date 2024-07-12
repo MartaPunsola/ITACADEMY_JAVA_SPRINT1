@@ -18,6 +18,7 @@ public class Main_n1exercici2 {
 		list1.add(4);
 		list1.add(5);
 		
+		System.out.println("Content of the first list in ascending order:");
 		for (Integer integer : list1) {
 			System.out.println(integer);
 		}
@@ -26,6 +27,7 @@ public class Main_n1exercici2 {
 		List<Integer> list2 = new ArrayList<Integer>(list1);
 		Collections.sort(list2, Collections.reverseOrder());
 		
+		System.out.println("Content of the second list in descending order:");
 		for (Integer integer : list2) {
 			System.out.println(integer);
 		}
@@ -38,6 +40,7 @@ public class Main_n1exercici2 {
 			list2.add(number);
 		}
 		
+		System.out.println("Content of the second list in descending order thanks to ListIterator:");
 		for (Integer integer : list2) {
 			System.out.println(integer);
 		}

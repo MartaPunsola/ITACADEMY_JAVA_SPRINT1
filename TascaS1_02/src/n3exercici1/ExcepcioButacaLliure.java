@@ -8,8 +8,4 @@ public class ExcepcioButacaLliure extends Exception {
 		super(message);
 	}
 	
-	public String getMessage() {
-		return "Aquesta butaca està lliure.";
-	}
-
 }

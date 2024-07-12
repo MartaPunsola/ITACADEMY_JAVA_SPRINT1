@@ -2,7 +2,6 @@ package n1exercici3;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -52,7 +51,7 @@ public class Main_n1exercici3 {
 		
         } 
     
-	public static HashMap<String, String> createList() {
+	private static HashMap<String, String> createList() {
 		String line = "";
 		String items [] = null;
 		HashMap<String, String> countries = new HashMap<String, String>();
@@ -68,16 +67,13 @@ public class Main_n1exercici3 {
 			}
 			bufferedReader.close();
 			
-		} catch (FileNotFoundException e) {
-			System.out.println("An error occurred: " + e.getClass().getName());
-
 		} catch (IOException e) {
 			System.out.println("An error occurred: " + e.getClass().getName());
 		}
 		return countries;
 	}
 	
-	public static void saveResults(String userName, int points ) {
+	private static void saveResults(String userName, int points ) {
 		try { 
 			 BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter("src/n1exercici3/results.txt"));
 			 bufferedWriter.write(userName + ": " + points + " points");

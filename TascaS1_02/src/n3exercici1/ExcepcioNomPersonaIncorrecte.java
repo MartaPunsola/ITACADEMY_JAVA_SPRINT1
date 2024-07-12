@@ -8,9 +8,4 @@ public class ExcepcioNomPersonaIncorrecte extends Exception {
 		super(message);
 	}
 	
-	@Override
-	public String getMessage() {
-		return "El nom no pot contenir xifres.";
-	}
-
 }
