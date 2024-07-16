@@ -152,13 +152,13 @@ public class Main_n3exercici1 {
 
 	}
 	
-		public static String crearRedactor(String nom, String dni) {
+		private static String crearRedactor(String nom, String dni) {
 			Redactor nouRedactor = new Redactor(nom, dni);
 			redactors.add(nouRedactor);
 			return (nouRedactor != null ? "El redactor ha estat creat correctament." : "Error en la creació del redactor. Torna-ho a intentar.");
 		}
 		
-		public static String eliminarRedactor(String nom) {
+		private static String eliminarRedactor(String nom) {
 			int idTrobat = -1;
 			String resposta = "";
 			idTrobat = buscarRedactor(nom);
@@ -172,42 +172,42 @@ public class Main_n3exercici1 {
 			return resposta;
 		}
 		
-		public static String altaNotFutbol(int id, String titular, String text, String competicio, String club, String jugador) {
+		private static String altaNotFutbol(int id, String titular, String text, String competicio, String club, String jugador) {
 			NotFutbol noticiaNova = new NotFutbol(titular, competicio, club, jugador);
 			noticiaNova.setText(text);
 			redactors.get(id).setNoticies(noticiaNova);
 			return (noticiaNova != null ? "La notícia s'ha creat correctament." : "Error en la creació de la notícia. Torna-ho a intentar.");
 		}
 		
-		public static String altaNotBasquet(int id, String titular, String text, String competicio, String club) {
+		private static String altaNotBasquet(int id, String titular, String text, String competicio, String club) {
 			NotBasquet noticiaNova = new NotBasquet(titular, competicio, club);
 			noticiaNova.setText(text);
 			redactors.get(id).setNoticies(noticiaNova);
 			return (noticiaNova != null ? "La notícia s'ha creat correctament." : "Error en la creació de la notícia. Torna-ho a intentar.");
 		}
 		
-		public static String altaNotTenis(int id, String titular, String text, String competicio, String tenista) {
+		private static String altaNotTenis(int id, String titular, String text, String competicio, String tenista) {
 			NotTenis noticiaNova = new NotTenis(titular, competicio, tenista);
 			noticiaNova.setText(text);
 			redactors.get(id).setNoticies(noticiaNova);
 			return (noticiaNova != null ? "La notícia s'ha creat correctament." : "Error en la creació de la notícia. Torna-ho a intentar.");
 		}
 		
-		public static String altaNotF1(int id, String titular, String text, String escuderia) {
+		private static String altaNotF1(int id, String titular, String text, String escuderia) {
 			NotF1 noticiaNova = new NotF1(titular, escuderia);
 			noticiaNova.setText(text);
 			redactors.get(id).setNoticies(noticiaNova);
 			return (noticiaNova != null ? "La notícia s'ha creat correctament." : "Error en la creació de la notícia. Torna-ho a intentar.");
 		}
 		
-		public static String altaNotMotociclisme(int id, String titular, String text, String equip) {
+		private static String altaNotMotociclisme(int id, String titular, String text, String equip) {
 			NotMotociclisme noticiaNova = new NotMotociclisme(titular, equip);
 			noticiaNova.setText(text);
 			redactors.get(id).setNoticies(noticiaNova);
 			return (noticiaNova != null ? "La notícia s'ha creat correctament." : "Error en la creació de la notícia. Torna-ho a intentar.");
 		}
 		
-		public static String eliminarNoticia(String nom, String titular) {
+		private static String eliminarNoticia(String nom, String titular) {
 			int idTrobat = -1, i = 0;
 			boolean noticiaTrobada = false;
 			Redactor redactorTrobat = null;
@@ -233,7 +233,7 @@ public class Main_n3exercici1 {
 			return resposta;
 		}
 		
-		public static String mostrarNoticies(String nom) {
+		private static String mostrarNoticies(String nom) {
 			int idTrobat = -1;
 			String resposta = "";
 			idTrobat = buscarRedactor(nom);
@@ -246,7 +246,7 @@ public class Main_n3exercici1 {
 			return resposta;
 		}
 		
-		public static String calcularPunts(String nom, String titular) {
+		private static String calcularPunts(String nom, String titular) {
 			int idTrobat = -1, i = 0;
 			boolean noticiaTrobada = false;
 			Redactor redactorTrobat = null;
@@ -271,7 +271,7 @@ public class Main_n3exercici1 {
 			return resposta;
 		}
 		
-		public static String calcularPreu(String nom, String titular) {
+		private static String calcularPreu(String nom, String titular) {
 			int idTrobat = -1, i = 0;
 			boolean noticiaTrobada = false;
 			Redactor redactorTrobat = null;
@@ -296,7 +296,7 @@ public class Main_n3exercici1 {
 			return resposta;
 		}
 		
-		public static int buscarRedactor(String nom) {
+		private static int buscarRedactor(String nom) {
 			int i = 0, idTrobat = -1;
 			while((i < redactors.size()) && (idTrobat == -1)) {
 				if(redactors.get(i).getNom().equalsIgnoreCase(nom)) {
