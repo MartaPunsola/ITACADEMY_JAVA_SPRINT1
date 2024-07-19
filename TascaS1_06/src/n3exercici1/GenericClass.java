@@ -16,13 +16,13 @@ public class GenericClass<T> {
 		this.t = t;
 	}
 	
-	public static <S extends Phone> void method1(S a) {
-		a.call();
+	public static <S extends Phone> void usingPhone(S phone) {
+		phone.call();
 	}
 	
-	public static <U extends Smartphone> void method2(U b) {
-		b.call();
-		b.takePhotos();
+	public static <U extends Smartphone> void usingSmartphone(U smartphone) {
+		smartphone.call();
+		smartphone.takePhotos();
 	}
 
 }

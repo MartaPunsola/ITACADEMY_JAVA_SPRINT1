@@ -8,10 +8,10 @@ public class Main_n3exercici1 {
 		Smartphone smartphone1 = new Smartphone();
 		
 		System.out.println("The method limited by Phone cannot take photos:");
-		GenericClass.method1(smartphone1);
+		GenericClass.usingPhone(smartphone1);
 		System.out.println();
 		System.out.println("The method limited by Smartphone can take photos:");
-		GenericClass.method2(smartphone1);
+		GenericClass.usingSmartphone(smartphone1);
 		
 	}
 
