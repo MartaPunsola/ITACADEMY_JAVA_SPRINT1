@@ -11,7 +11,7 @@ public class OnlineWorker extends Worker {
 	
 	@Override
 	public float calculateSalary(int hours) {
-		return (super.getHourlySalary() * (float)hours) + this.INTERNET;
+		return super.calculateSalary(hours) + this.INTERNET;
 	}
 	
 	@Deprecated

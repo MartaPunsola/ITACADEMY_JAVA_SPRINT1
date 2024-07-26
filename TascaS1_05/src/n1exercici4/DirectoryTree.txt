@@ -1,0 +1,195 @@
+desdob3_desdob2_desdob1_elim_corr_resultat_10_infinitivo.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:31
+desdob3_desdob2_desdob1_elim_corr_resultat_11_adjetivo-clasesyusos-posicionenelsintagmanominal.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:31
+desdob3_desdob2_desdob1_elim_corr_resultat_11_concordancia.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:31
+desdob3_desdob2_desdob1_elim_corr_resultat_11_estructurasintagmanominal-modificadoresdelnombre.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:31
+desdob3_desdob2_desdob1_elim_corr_resultat_11_estructurasintagmanominal-nominalizacionesyotrossustantivosconcomplementosargumentales.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:31
+desdob3_desdob2_desdob1_elim_corr_resultat_11_nombre-comun.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:31
+desdob3_desdob2_desdob1_elim_corr_resultat_11_posesivo-relacionesposesivas.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:31
+desdob3_desdob2_desdob1_elim_corr_resultat_11_sintagmaadjetival-modificadoresycomplementosdeladjetivo-adjetivoyparticipio.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:31
+desdob3_desdob2_desdob1_elim_corr_resultat_12_coordinacion.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:31
+desdob3_desdob2_desdob1_elim_corr_resultat_12_relaciones-paratacticasehipotacticas.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:32
+desdob3_desdob2_desdob1_elim_corr_resultat_13_articulo.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:32
+desdob3_desdob2_desdob1_elim_corr_resultat_13_cuantificadores-clasesdecuantificadores-estructurascuantificativas.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:32
+desdob3_desdob2_desdob1_elim_corr_resultat_13_cuantificadores-construccionescomparativasysuperlativas.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:32
+desdob3_desdob2_desdob1_elim_corr_resultat_13_cuantificadores-numerales.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:32
+desdob3_desdob2_desdob1_elim_corr_resultat_13_negacion.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:32
+desdob3_desdob2_desdob1_elim_corr_resultat_13_presenciayausenciadedeterminante.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:32
+desdob3_desdob2_desdob1_elim_corr_resultat_1_actosdehabla-oracionesimperativas.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:19
+desdob3_desdob2_desdob1_elim_corr_resultat_1_complemento-directo-preposicional.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:20
+desdob3_desdob2_desdob1_elim_corr_resultat_1_complementos-regimenverbal.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:20
+desdob3_desdob2_desdob1_elim_corr_resultat_1_concordancia.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:20
+desdob3_desdob2_desdob1_elim_corr_resultat_1_construccionesexclamativas-interjeccionyexpresionesvocativas.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:20
+desdob3_desdob2_desdob1_elim_corr_resultat_1_transitividad-intransitividad.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:20
+desdob3_desdob2_desdob1_elim_corr_resultat_2_aposicion-otrasrelacionesdepredicacionenelsintagmanominal.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:20
+desdob3_desdob2_desdob1_elim_corr_resultat_2_concordancia.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:20
+desdob3_desdob2_desdob1_elim_corr_resultat_2_predicacion-complementospredicativos.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:28
+desdob3_desdob2_desdob1_elim_corr_resultat_2_predicacion-oracionescopulativas.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:29
+desdob3_desdob2_desdob1_elim_corr_resultat_2_predicacion-predicacionnocopulativa-construccionesabsolutas.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:29
+desdob3_desdob2_desdob1_elim_corr_resultat_3_complementosadverbialestemporales-subordinaciontemporal.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:29
+desdob3_desdob2_desdob1_elim_corr_resultat_3_construcciones-concesivasyadversativas.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:29
+desdob3_desdob2_desdob1_elim_corr_resultat_3_construcciones-condicionales.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:29
+desdob3_desdob2_desdob1_elim_corr_resultat_3_construcciones-consecutivas.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:29
+desdob3_desdob2_desdob1_elim_corr_resultat_3_construccionesdegerundio.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:29
+desdob3_desdob2_desdob1_elim_corr_resultat_3_estructurasintagmanominal-modificadoresdelnombre.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:29
+desdob3_desdob2_desdob1_elim_corr_resultat_3_modoenlassubordinadasrelativasyadverbiales.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:30
+desdob3_desdob2_desdob1_elim_corr_resultat_3_subordinacion-causalyfinal.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:30
+desdob3_desdob2_desdob1_elim_corr_resultat_3_tiempoverbalysintaxisoracional-consecutiotemporum.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:30
+desdob3_desdob2_desdob1_elim_corr_resultat_4_dativos.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:30
+desdob3_desdob2_desdob1_elim_corr_resultat_5_construcciones-impersonales-noreflejas.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:30
+desdob3_desdob2_desdob1_elim_corr_resultat_5_construcciones-inacusativasypasivas.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:30
+desdob3_desdob2_desdob1_elim_corr_resultat_5_construccionesconse-medias-pasivas-impersonales.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:30
+desdob3_desdob2_desdob1_elim_corr_resultat_5_elipsis.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:30
+desdob3_desdob2_desdob1_elim_corr_resultat_6_elipsis.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:30
+desdob3_desdob2_desdob1_elim_corr_resultat_6_expresionyomision-pronombrepersonal.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:30
+desdob3_desdob2_desdob1_elim_corr_resultat_6_leismo-laismo-loismo.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:30
+desdob3_desdob2_desdob1_elim_corr_resultat_6_pronombrepersonal-formasydistribuciones-pronombresatonosytonicos.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:30
+desdob3_desdob2_desdob1_elim_corr_resultat_6_pronombres-reflexivosyreciprocos.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:30
+desdob3_desdob2_desdob1_elim_corr_resultat_7_enunciadosinterrogativos-aspectossemanticosypragmaticos.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:30
+desdob3_desdob2_desdob1_elim_corr_resultat_7_estructurasintagmanominal-oracionesderelativo.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:30
+desdob3_desdob2_desdob1_elim_corr_resultat_7_relaciones-construccionesinterrogativas-exclamativas-relativas.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:30
+desdob3_desdob2_desdob1_elim_corr_resultat_7_subordinacionsustantiva-interrogacionindirecta.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:30
+desdob3_desdob2_desdob1_elim_corr_resultat_8_subordinacionsustantiva-subordinadasenunciativasenloscomplementosnominales.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:30
+desdob3_desdob2_desdob1_elim_corr_resultat_8_subordinacionsustantiva-subordinadasenunciativasenloscomplementosverbales.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:30
+desdob3_desdob2_desdob1_elim_corr_resultat_8_tiempoverbalysintaxisoracional-consecutiotemporum.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:30
+desdob3_desdob2_desdob1_elim_corr_resultat_8_variacionenlassubordinadassustantivas-dequeismo-queismo.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:31
+desdob3_desdob2_desdob1_elim_corr_resultat_9_funcionesinformativas-perifrasisderelativo-otrasconstruccionesperifrasticas.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:31
+desdob3_desdob2_desdob1_elim_corr_resultat_9_modoymodalidad-modoenlassubordinadassustantivas.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:31
+desdob3_desdob2_desdob1_elim_corr_resultat_9_negacion.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:31
+desdob3_desdob2_desdob1_elim_corr_resultat_9_perifrasisverbales-gerundio-participio.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:31
+desdob3_desdob2_desdob1_elim_corr_resultat_9_verbosauxiliares-perifrasisverbalesdeinfinitivo.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:31
+Articles (D) - Last modified: 04/09/2019 10:21:36
+CODOLCAT (Estudis romànics).doc (F) - Last modified: 02/06/2012 08:47:34
+CODOLCAT (Ker).doc (F) - Last modified: 29/05/2012 20:44:44
+Estudis_Romànics_Codolcat.pdf (F) - Last modified: 24/09/2013 11:01:11
+LFC (Querol).docx (F) - Last modified: 13/05/2012 10:36:50
+Liber elegantiarum.pdf (F) - Last modified: 12/03/2015 14:46:32
+Liber elegantiarum_notes.docx (F) - Last modified: 01/09/2014 11:24:56
+Reseñas.pdf (F) - Last modified: 11/03/2015 18:42:02
+Ressenyes AEM (D) - Last modified: 12/12/2021 12:41:33
+AEM 2012 Notes bibliogràfiques.pdf (F) - Last modified: 13/12/2012 16:26:19
+AEM 2012 Ressenyes conjuntes.pdf (F) - Last modified: 13/12/2012 16:27:10
+AEM Alguaire.doc (F) - Last modified: 02/03/2013 11:46:30
+AEM Casserres.doc (F) - Last modified: 02/03/2013 11:46:57
+AEM Chronicon_Brepols.docx (F) - Last modified: 29/01/2015 13:27:42
+AEM Sant Llorenç del Munt.docx (F) - Last modified: 31/08/2015 10:58:48
+AEM Santes Creus.docx (F) - Last modified: 03/09/2012 18:08:46
+AEM Serrateix i Portella.doc (F) - Last modified: 03/09/2012 18:19:02
+AEM_La compilación del saber.docx (F) - Last modified: 31/08/2016 16:59:13
+Mod.2_Instruccions_castellà.doc (F) - Last modified: 21/07/2016 17:18:25
+Normas_Autores_AEM_2012.pdf (F) - Last modified: 17/07/2012 17:31:35
+SEEC_Liber elegantiarum_MPunsola.docx (F) - Last modified: 05/09/2014 13:45:42
+Studi Medievali (D) - Last modified: 07/10/2018 18:02:03
+._Formulario su Marta Punsola.doc (F) - Last modified: 29/03/2016 18:39:31
+._Formulario su Marta Punsola.docx (F) - Last modified: 29/03/2016 18:39:31
+._Norme editoriali.pdf (F) - Last modified: 29/03/2016 18:39:31
+._VatLat4418_MartaPunsola.docx (F) - Last modified: 29/03/2016 18:39:31
+._VatLat4418_MartaPunsola.pdf (F) - Last modified: 29/03/2016 18:39:33
+Formulario su Marta Punsola.doc (F) - Last modified: 29/03/2016 16:14:17
+Formulario su Marta Punsola.docx (F) - Last modified: 29/03/2016 16:14:13
+Norme editoriali.pdf (F) - Last modified: 29/03/2016 16:13:16
+prova.PDF (F) - Last modified: 23/04/2016 07:53:02
+PUNSOLA MUNÁRRIZ_prime_bozze+corr.PDF (F) - Last modified: 03/05/2016 17:42:45
+PUNSOLA MUNÁRRIZ_prime_bozze.PDF (F) - Last modified: 28/04/2016 15:02:12
+PUNSOLA MUNÁRRIZ_seconde_bozze+corr.PDF (F) - Last modified: 10/05/2016 17:45:06
+PUNSOLA MUNÁRRIZ_seconde_bozze.PDF (F) - Last modified: 10/05/2016 17:45:12
+Resumen_MPunsola.docx (F) - Last modified: 14/07/2017 10:51:16
+Studi Medievali_Punsola_article publicat.pdf (F) - Last modified: 05/10/2017 20:22:50
+VatLat4418_MartaPunsola.docx (F) - Last modified: 02/05/2016 17:41:00
+VatLat4418_MartaPunsola.pdf (F) - Last modified: 11/04/2016 17:11:09
+Capítols llibre (D) - Last modified: 16/02/2020 10:48:07
+Projeccions_de_la_lexicografia.pdf (F) - Last modified: 16/02/2020 10:47:21
+puig_ircvm9.pdf (F) - Last modified: 16/02/2020 10:47:33
+Congressos (D) - Last modified: 20/01/2023 16:27:06
+Alacant_Llatí Medieval_Nov2013 (D) - Last modified: 07/10/2018 18:02:04
+._Formació XML.docx (F) - Last modified: 06/11/2013 17:58:42
+._Glorieux2010_ela.pdf (F) - Last modified: 06/11/2013 17:58:40
+._Intro_GMLC.doc (F) - Last modified: 06/11/2013 17:58:42
+._Repàs GMLC.doc (F) - Last modified: 08/11/2013 14:59:12
+._VI-Congres-Alacant.doc (F) - Last modified: 06/11/2013 17:58:42
+._VI-Congres-Alacant.pptx (F) - Last modified: 07/11/2013 17:55:20
+GMLC_digital_definitiu.docx (F) - Last modified: 25/03/2014 18:31:11
+imatges (D) - Last modified: 07/10/2018 18:02:04
+abbata_fitxa.jpg (F) - Last modified: 15/11/2013 13:44:58
+abbata_reed.jpg (F) - Last modified: 15/11/2013 14:21:00
+cerca_abella.jpg (F) - Last modified: 18/11/2013 10:20:46
+cerca_avançada.jpg (F) - Last modified: 18/11/2013 10:12:32
+cerca_catgram.jpg (F) - Last modified: 18/11/2013 10:12:54
+cerca_cronologia.jpg (F) - Last modified: 18/11/2013 10:13:18
+cerca_etimologia.jpg (F) - Last modified: 18/11/2013 10:12:44
+cerca_senzilla.jpg (F) - Last modified: 18/11/2013 10:10:30
+Publicació (D) - Last modified: 07/10/2018 18:02:04
+32-punsola et alii.pdf (F) - Last modified: 18/05/2016 17:34:55
+Abstract.docx (F) - Last modified: 31/05/2016 18:09:38
+Abstract_Punsola et alii.pdf (F) - Last modified: 31/05/2016 18:09:35
+derechos_autor.pdf (F) - Last modified: 31/05/2016 18:10:19
+derechos_imágenes.pdf (F) - Last modified: 31/05/2016 18:10:23
+esempio abstract.pdf (F) - Last modified: 18/05/2016 17:34:57
+liberatoria per le illustrazioni volumi.doc (F) - Last modified: 18/05/2016 17:34:58
+liberatoria_Alles.pdf (F) - Last modified: 01/06/2016 18:35:35
+liberatoria_Quetglas.pdf (F) - Last modified: 01/06/2016 18:34:46
+NORMAS DE CORRECCIÓN.pdf (F) - Last modified: 18/05/2016 17:35:02
+Punsola et alii+corr.pdf (F) - Last modified: 01/06/2016 18:35:30
+Resumen_Alicante.docx (F) - Last modified: 16/07/2017 09:09:28
+rinuncia ai diritti.doc (F) - Last modified: 18/05/2016 17:35:04
+rinuncia_Alles.pdf (F) - Last modified: 01/06/2016 18:35:32
+rinuncia_Quetglas.pdf (F) - Last modified: 01/06/2016 18:34:51
+Quetglas_Punsola_GMLC_digital (doc enviat).docx (F) - Last modified: 26/03/2014 15:02:50
+desdob3_desdob2_desdob1_elim_corr_resultat_10_infinitivo.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:31
+desdob3_desdob2_desdob1_elim_corr_resultat_11_adjetivo-clasesyusos-posicionenelsintagmanominal.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:31
+desdob3_desdob2_desdob1_elim_corr_resultat_11_concordancia.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:31
+desdob3_desdob2_desdob1_elim_corr_resultat_11_estructurasintagmanominal-modificadoresdelnombre.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:31
+desdob3_desdob2_desdob1_elim_corr_resultat_11_estructurasintagmanominal-nominalizacionesyotrossustantivosconcomplementosargumentales.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:31
+desdob3_desdob2_desdob1_elim_corr_resultat_11_nombre-comun.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:31
+desdob3_desdob2_desdob1_elim_corr_resultat_11_posesivo-relacionesposesivas.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:31
+desdob3_desdob2_desdob1_elim_corr_resultat_11_sintagmaadjetival-modificadoresycomplementosdeladjetivo-adjetivoyparticipio.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:31
+desdob3_desdob2_desdob1_elim_corr_resultat_12_coordinacion.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:31
+desdob3_desdob2_desdob1_elim_corr_resultat_12_relaciones-paratacticasehipotacticas.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:32
+desdob3_desdob2_desdob1_elim_corr_resultat_13_articulo.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:32
+desdob3_desdob2_desdob1_elim_corr_resultat_13_cuantificadores-clasesdecuantificadores-estructurascuantificativas.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:32
+desdob3_desdob2_desdob1_elim_corr_resultat_13_cuantificadores-construccionescomparativasysuperlativas.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:32
+desdob3_desdob2_desdob1_elim_corr_resultat_13_cuantificadores-numerales.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:32
+desdob3_desdob2_desdob1_elim_corr_resultat_13_negacion.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:32
+desdob3_desdob2_desdob1_elim_corr_resultat_13_presenciayausenciadedeterminante.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:32
+desdob3_desdob2_desdob1_elim_corr_resultat_1_actosdehabla-oracionesimperativas.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:19
+desdob3_desdob2_desdob1_elim_corr_resultat_1_complemento-directo-preposicional.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:20
+desdob3_desdob2_desdob1_elim_corr_resultat_1_complementos-regimenverbal.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:20
+desdob3_desdob2_desdob1_elim_corr_resultat_1_concordancia.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:20
+desdob3_desdob2_desdob1_elim_corr_resultat_1_construccionesexclamativas-interjeccionyexpresionesvocativas.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:20
+desdob3_desdob2_desdob1_elim_corr_resultat_1_transitividad-intransitividad.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:20
+desdob3_desdob2_desdob1_elim_corr_resultat_2_aposicion-otrasrelacionesdepredicacionenelsintagmanominal.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:20
+desdob3_desdob2_desdob1_elim_corr_resultat_2_concordancia.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:20
+desdob3_desdob2_desdob1_elim_corr_resultat_2_predicacion-complementospredicativos.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:28
+desdob3_desdob2_desdob1_elim_corr_resultat_2_predicacion-oracionescopulativas.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:29
+desdob3_desdob2_desdob1_elim_corr_resultat_2_predicacion-predicacionnocopulativa-construccionesabsolutas.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:29
+desdob3_desdob2_desdob1_elim_corr_resultat_3_complementosadverbialestemporales-subordinaciontemporal.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:29
+desdob3_desdob2_desdob1_elim_corr_resultat_3_construcciones-concesivasyadversativas.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:29
+desdob3_desdob2_desdob1_elim_corr_resultat_3_construcciones-condicionales.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:29
+desdob3_desdob2_desdob1_elim_corr_resultat_3_construcciones-consecutivas.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:29
+desdob3_desdob2_desdob1_elim_corr_resultat_3_construccionesdegerundio.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:29
+desdob3_desdob2_desdob1_elim_corr_resultat_3_estructurasintagmanominal-modificadoresdelnombre.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:29
+desdob3_desdob2_desdob1_elim_corr_resultat_3_modoenlassubordinadasrelativasyadverbiales.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:30
+desdob3_desdob2_desdob1_elim_corr_resultat_3_subordinacion-causalyfinal.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:30
+desdob3_desdob2_desdob1_elim_corr_resultat_3_tiempoverbalysintaxisoracional-consecutiotemporum.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:30
+desdob3_desdob2_desdob1_elim_corr_resultat_4_dativos.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:30
+desdob3_desdob2_desdob1_elim_corr_resultat_5_construcciones-impersonales-noreflejas.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:30
+desdob3_desdob2_desdob1_elim_corr_resultat_5_construcciones-inacusativasypasivas.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:30
+desdob3_desdob2_desdob1_elim_corr_resultat_5_construccionesconse-medias-pasivas-impersonales.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:30
+desdob3_desdob2_desdob1_elim_corr_resultat_5_elipsis.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:30
+desdob3_desdob2_desdob1_elim_corr_resultat_6_elipsis.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:30
+desdob3_desdob2_desdob1_elim_corr_resultat_6_expresionyomision-pronombrepersonal.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:30
+desdob3_desdob2_desdob1_elim_corr_resultat_6_leismo-laismo-loismo.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:30
+desdob3_desdob2_desdob1_elim_corr_resultat_6_pronombrepersonal-formasydistribuciones-pronombresatonosytonicos.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:30
+desdob3_desdob2_desdob1_elim_corr_resultat_6_pronombres-reflexivosyreciprocos.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:30
+desdob3_desdob2_desdob1_elim_corr_resultat_7_enunciadosinterrogativos-aspectossemanticosypragmaticos.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:30
+desdob3_desdob2_desdob1_elim_corr_resultat_7_estructurasintagmanominal-oracionesderelativo.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:30
+desdob3_desdob2_desdob1_elim_corr_resultat_7_relaciones-construccionesinterrogativas-exclamativas-relativas.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:30
+desdob3_desdob2_desdob1_elim_corr_resultat_7_subordinacionsustantiva-interrogacionindirecta.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:30
+desdob3_desdob2_desdob1_elim_corr_resultat_8_subordinacionsustantiva-subordinadasenunciativasenloscomplementosnominales.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:30
+desdob3_desdob2_desdob1_elim_corr_resultat_8_subordinacionsustantiva-subordinadasenunciativasenloscomplementosverbales.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:30
+desdob3_desdob2_desdob1_elim_corr_resultat_8_tiempoverbalysintaxisoracional-consecutiotemporum.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:30
+desdob3_desdob2_desdob1_elim_corr_resultat_8_variacionenlassubordinadassustantivas-dequeismo-queismo.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:31
+desdob3_desdob2_desdob1_elim_corr_resultat_9_funcionesinformativas-perifrasisderelativo-otrasconstruccionesperifrasticas.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:31
+desdob3_desdob2_desdob1_elim_corr_resultat_9_modoymodalidad-modoenlassubordinadassustantivas.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:31
+desdob3_desdob2_desdob1_elim_corr_resultat_9_negacion.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:31
+desdob3_desdob2_desdob1_elim_corr_resultat_9_perifrasisverbales-gerundio-participio.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:31
+desdob3_desdob2_desdob1_elim_corr_resultat_9_verbosauxiliares-perifrasisverbalesdeinfinitivo.txt.txt.txt.txt.txt.txt (F) - Last modified: 14/06/2023 11:01:31

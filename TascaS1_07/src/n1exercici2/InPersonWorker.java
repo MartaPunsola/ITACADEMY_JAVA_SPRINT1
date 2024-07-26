@@ -2,7 +2,7 @@ package n1exercici2;
 
 public class InPersonWorker extends Worker {
 
-	private static float fuel = 0;
+	private static float fuel;
 	
 	public InPersonWorker(String name, String surname, float hourlySalary) {
 		super(name, surname, hourlySalary);
@@ -14,7 +14,7 @@ public class InPersonWorker extends Worker {
 	
 	@Override
 	public float calculateSalary(int hours) {
-		return (super.getHourlySalary() * (float)hours) + InPersonWorker.fuel;
+		return super.calculateSalary(hours) + InPersonWorker.fuel;
 	}
 	
 	@Deprecated
