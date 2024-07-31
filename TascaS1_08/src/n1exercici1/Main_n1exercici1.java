@@ -9,7 +9,7 @@ public class Main_n1exercici1 {
 		// TODO Auto-generated method stub
 		
 		List<String> words = Arrays.asList("work", "cloud", "apple", "sentence", "option", "car", "dog", "house", "sister");
-		List<String> wordsWithO = words.stream().filter(w -> w.contains("o")).collect(Collectors.toList());
+		List<String> wordsWithO = words.stream().filter(w -> w.contains("o") || w.contains("O") ).collect(Collectors.toList());
 		
 		System.out.println("Words that contain the letter 'o':");
 		wordsWithO.forEach(w -> System.out.println(w));

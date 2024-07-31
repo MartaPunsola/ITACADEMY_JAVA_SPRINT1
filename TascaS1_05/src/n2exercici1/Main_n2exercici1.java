@@ -16,14 +16,14 @@ public class Main_n2exercici1 {
 		try {
 			entry = new FileInputStream("src/n2exercici1/config.properties");
 			properties.load(entry);
-			
 			properties.getProperty("directory");
 			properties.getProperty("directoryTxt");
+			entry.close();
 			
 		} catch (FileNotFoundException e) {
-			System.err.println("An error occurred: " + e.getClass().getName());
+			System.err.println("File not found: " + e.getMessage());
 		} catch (IOException e) {
-			System.err.println("An error occurred: " + e.getClass().getName());
+			System.err.println("I/O error: " + e.getMessage());
 		}
 		
 		DirectoryTxt.getDirectory();

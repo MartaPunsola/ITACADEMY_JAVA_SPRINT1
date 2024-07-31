@@ -32,10 +32,10 @@ public class DirectoryTree {
 			SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");
 			File directoryElement = directoryList[i];
 			System.out.println(String.format("%s (%s) - %s", 
-					directoryElement.getName(),
-					directoryElement.isDirectory() ? "D" : "F",
+							directoryElement.getName(),
+							directoryElement.isDirectory() ? "D" : "F",
 							"Last modified: " + sdf.format(directoryElement.lastModified())
-									));
+							));
 			if(directoryElement.isDirectory()) {
 				sortDirectory(directoryElement);
 				

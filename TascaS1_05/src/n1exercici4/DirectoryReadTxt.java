@@ -36,14 +36,16 @@ public class DirectoryReadTxt {
 			
 			if(directoryElement.isDirectory()) {
 				line = String.format("%s (%s) - %s", 
-						directoryElement.getName(),
-						 "D", "Last modified: " + sdf.format(directoryElement.lastModified()));
+									directoryElement.getName(),
+									"D", "Last modified: " + sdf.format(directoryElement.lastModified()
+									));
 				writeTxtFile(line);
 				sortDirectory(directoryElement);
 			} else if(directoryElement.isFile()) {
 				line = String.format("%s (%s) - %s", 
-						directoryElement.getName(),
-						"F", "Last modified: " + sdf.format(directoryElement.lastModified()));
+									directoryElement.getName(),
+									"F", "Last modified: " + sdf.format(directoryElement.lastModified()
+									));
 				writeTxtFile(line);
 				filePath = directoryElement.getAbsolutePath();
 				readFile(filePath);
@@ -59,7 +61,7 @@ public class DirectoryReadTxt {
 			bufferedWriter.write(line + "\n");
 			bufferedWriter.close();
 		} catch (IOException e) { 
-      	System.out.println("An error occurred: " + e.getClass().getName());
+			System.err.println("I/O error: " + e.getMessage());
       	
       } 
 	}
@@ -80,7 +82,7 @@ public class DirectoryReadTxt {
                 bufferedReader.close();
                 
             } catch (IOException e) {
-                System.err.println("An error occurred: " + e.getClass().getName());
+                System.err.println("I/O error: " + e.getMessage());
             }
         }
                 

@@ -39,14 +39,16 @@ public class DirectoryTxt {
 			
 			if(directoryElement.isDirectory()) {
 				line = String.format("%s (%s) - %s", 
-						directoryElement.getName(),
-						 "D", "Last modified: " + sdf.format(directoryElement.lastModified()));
+									directoryElement.getName(),
+									"D", "Last modified: " + sdf.format(directoryElement.lastModified()
+									));
 				writeTxtFile(line);
 				sortDirectory(directoryElement);
 			} else if(directoryElement.isFile()) {
 				line = String.format("%s (%s) - %s", 
-						directoryElement.getName(),
-						"F", "Last modified: " + sdf.format(directoryElement.lastModified()));
+									directoryElement.getName(),
+									"F", "Last modified: " + sdf.format(directoryElement.lastModified()
+									));
 				writeTxtFile(line);
 			}
 			
@@ -60,7 +62,7 @@ public class DirectoryTxt {
 			bufferedWriter.write(line + "\n");
 			bufferedWriter.close();
 		} catch (IOException e) { 
-      	System.out.println("An error occurred: " + e.getClass().getName());
+      	System.out.println("I/O error: " + e.getMessage());
       	
       } 
 	}
